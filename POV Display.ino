@@ -1,3 +1,4 @@
+
 #define reedPin 12
 #define led 13
 int reedState = 0;
@@ -108,6 +109,7 @@ displayString("e");
 displayString("l");
 displayString("l");
 displayString("o");
+//https://youtu.be/mo_xtAU_Cq0
 
 
 
